@@ -1,10 +1,28 @@
 ## Hi there 👋
 
 ### Skills (Alphabetical)
-[![My Skills](https://skillicons.dev/icons?i=astro,cloudflare,css,githubactions,go,html,nextjs,nodejs,postgres,prisma,react,remix,tailwind,ts,workers)](https://skillicons.dev)
 
-### Stats
+#### Prog Lang
+
+[![My Skills](https://skillicons.dev/icons?i=go,ts)](https://skillicons.dev)
+
+#### FE
+
+[![My Skills](https://skillicons.dev/icons?i=astro,css,html,nextjs,react,remix,tailwind)](https://skillicons.dev)
+
+#### BE
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,workers)](https://skillicons.dev)
+
+#### DB
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,prisma)](https://skillicons.dev)
+
+#### Cloud
+
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,githubactions,workers)](https://skillicons.dev)
+
 <!--
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=msisdev)](https://github.com/anuraghazra/github-readme-stats)
--->
+### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msisdev&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+-->
