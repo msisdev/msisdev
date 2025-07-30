@@ -4,7 +4,7 @@
 
 #### Prog Lang
 
-[![My Skills](https://skillicons.dev/icons?i=go,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,go,ts)](https://skillicons.dev)
 
 #### FE
 
