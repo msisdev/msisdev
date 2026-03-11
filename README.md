@@ -1,26 +1,10 @@
-## Hi there 👋
+Languages
 
-### Skills (Alphabetical)
+[![My Skills](https://skillicons.dev/icons?i=c,go,rust,ts)](https://skillicons.dev)
 
-#### Prog Lang
+Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,go,ts)](https://skillicons.dev)
-
-#### FE
-
-[![My Skills](https://skillicons.dev/icons?i=astro,css,html,nextjs,react,remix,tailwind)](https://skillicons.dev)
-
-#### BE
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,workers)](https://skillicons.dev)
-
-#### DB
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,prisma)](https://skillicons.dev)
-
-#### Cloud
-
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,githubactions,workers)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,bevy,cloudflare,nextjs,postgres)](https://skillicons.dev)
 
 <!--
 ### Stats
