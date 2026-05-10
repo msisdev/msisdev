@@ -4,7 +4,7 @@ Languages
 
 Stack
 
-[![My Skills](https://skillicons.dev/icons?i=astro,bevy,cloudflare,nextjs,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,cloudflare,nextjs,postgres)](https://skillicons.dev)
 
 <!--
 ### Stats
